@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 482 516" style="enable-background:new 0 0 482 516;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);filter:url(#Adobe_OpacityMaskFilter);}
+	.st2{mask:url(#mask0_963_685_1_);}
+	.st3{fill:none;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="373.2474" y1="397.2749" x2="-109.7526" y2="-40.2252" gradientTransform="matrix(1 0 0 -1 0 518)">
+	<stop  offset="0" style="stop-color:#860095"/>
+	<stop  offset="1" style="stop-color:#FA15FF"/>
+</linearGradient>
+<path class="st0" d="M393.1,63.7c44.1,39.8,70.9,97.6,82.4,158.7c11.9,61.1,8.8,125.9-21.9,170.8c-30.4,45-88.5,70.5-147.8,92.4
+	c-59.6,21.9-120.5,40.4-171,24.3c-50.2-16.1-89.7-66.6-111.6-120.1C1.3,336.6-2.9,280.7,1.6,220.8C5.9,160.9,18.4,97.1,57.3,56.7
+	C95.9,15.9,161-1.7,224,0.1C287.3,2.3,349,23.8,393.1,63.7z"/>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="42" y="-127" width="470" height="706">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="42" y="-127" width="470" height="706" id="mask0_963_685_1_">
+	
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="373.2474" y1="397.2749" x2="-109.7526" y2="-40.2252" gradientTransform="matrix(1 0 0 -1 0 518)">
+		<stop  offset="0" style="stop-color:#860095"/>
+		<stop  offset="1" style="stop-color:#FA15FF"/>
+	</linearGradient>
+	<path class="st1" d="M393.1,63.7c44.1,39.8,70.9,97.6,82.4,158.7c11.9,61.1,8.8,125.9-21.9,170.8c-30.4,45-88.5,70.5-147.8,92.4
+		c-59.6,21.9-120.5,40.4-171,24.3c-50.2-16.1-89.7-66.6-111.6-120.1C1.3,336.6-2.9,280.7,1.6,220.8C5.9,160.9,18.4,97.1,57.3,56.7
+		C95.9,15.9,161-1.7,224,0.1C287.3,2.3,349,23.8,393.1,63.7z"/>
+</mask>
+<g class="st2">
+	<rect x="42" y="-127" class="st3" width="470" height="706"/>
+</g>
+<image style="overflow:visible;" width="289" height="309" xlink:href="C:\Users\houfc\Downloads\avatar.png"  transform="matrix(1.6311 0 0 1.6311 5.3108 6)">
+</image>
+</svg>
