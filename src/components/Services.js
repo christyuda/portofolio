@@ -8,13 +8,13 @@ const services = [
   {
     name: "Kreatifitas",
     description:
-      "Sebagai seorang Front End developer, saya memiliki kemampuan untuk menghasilkan desain yang menarik dan inovatif. Dengan kekreatifan saya,saya dapat mengubah ide menjadi kenyataan melalui kode.",
+      "Sebagai seorang Front End developer, saya memiliki kemampuan untuk menghasilkan desain yang menarik dan inovatif. Dengan kekreatifan saya,saya dapat mengubah  ide menjadi kenyataan melalui kode.",
     link: "Learn More",
   },
   {
     name: "Kolaborasi Tim",
     description:
-      "Sebagai seorang pekerja lepas, saya sering terlibat dalam berbagai proyek dengan tim yang berbeda. Kemampuan saya dalam berkolaborasi dengan baik, berkomunikasi, dan memahami kebutuhan tim serta klien sangat berharga untuk mencapai tujuan bersama.",
+      "Sebagai seorang pekerja lepas, saya sering terlibat dalam berbagai proyek dengan tim yang berbeda. Kemampuan saya dalam berkolaborasi dengan baik, berkomunikasi,  dan memahami kebutuhan tim serta klien sangat berharga untuk mencapai tujuan bersama.",
     link: "Learn More",
   },
   {
