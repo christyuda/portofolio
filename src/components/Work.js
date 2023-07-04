@@ -9,7 +9,7 @@ const Work = () => {
     <section className="section" id="work">
       <div className="container mx-auto">
         <div className="flex flex-col lg:flex-row gap-x-10"></div>
-        <div>2</div>
+        <div></div>
       </div>
     </section>
   );

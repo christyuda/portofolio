@@ -6,27 +6,27 @@ import { fadeIn } from "../variants";
 
 const services = [
   {
-    name: "UI/UX Design",
+    name: "Kreatifitas",
     description:
-      "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "Sebagai seorang Front End developer, saya memiliki kemampuan untuk menghasilkan desain yang menarik dan inovatif. Dengan kekreatifan saya,saya dapat mengubah ide menjadi kenyataan melalui kode.",
     link: "Learn More",
   },
   {
-    name: "Development",
+    name: "Kolaborasi Tim",
     description:
-      "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "Sebagai seorang pekerja lepas, saya sering terlibat dalam berbagai proyek dengan tim yang berbeda. Kemampuan saya dalam berkolaborasi dengan baik, berkomunikasi, dan memahami kebutuhan tim serta klien sangat berharga untuk mencapai tujuan bersama.",
     link: "Learn More",
   },
   {
-    name: "Digital Art ",
+    name: "Keinginan untuk Belajar",
     description:
-      "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "ndustri teknologi selalu berkembang dengan cepat, dan sebagai seorang Front End developer, saya selalu beradaptasi dengan perubahan tersebut. Saya memiliki kecerdasan dan keinginan yang kuat untuk terus belajar dan mengembangkan keterampilan baru, karena saya sadar bahwa hal tersebut sangat penting dalam profesi ini.",
     link: "Learn More",
   },
   {
-    name: "Digital Art ",
+    name: "Ketekunan dan Disiplin ",
     description:
-      "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "Dunia pengembangan web membutuhkan ketekunan dan disiplin yang tinggi. Ketika terjadi kesalahan atau kesulitan, kemampuan saya untuk tetap bertahan, mencari solusi, dan terus melangkah maju adalah faktor kunci dalam kesuksesan saya.",
     link: "Learn More",
   },
 ];
