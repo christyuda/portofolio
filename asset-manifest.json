@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://christyuda.github.io/portofolio/static/css/main.33f04f24.css",
-    "main.js": "https://christyuda.github.io/portofolio/static/js/main.2be0b252.js",
+    "main.js": "https://christyuda.github.io/portofolio/static/js/main.d8f1f938.js",
     "static/media/portfolio-img2.png": "https://christyuda.github.io/portofolio/static/media/portfolio-img2.d80e3fc7e2231cffbbd7.png",
     "static/media/avatars.png": "https://christyuda.github.io/portofolio/static/media/avatars.7037a1d459e3bb84ba0a.png",
     "static/media/portfolio-img3.png": "https://christyuda.github.io/portofolio/static/media/portfolio-img3.e2bf250541b961cca642.png",
@@ -12,10 +12,10 @@
     "static/media/logo.svg": "https://christyuda.github.io/portofolio/static/media/logo.eecac2b83ad6e304cc044348df065eb3.svg",
     "index.html": "https://christyuda.github.io/portofolio/index.html",
     "main.33f04f24.css.map": "https://christyuda.github.io/portofolio/static/css/main.33f04f24.css.map",
-    "main.2be0b252.js.map": "https://christyuda.github.io/portofolio/static/js/main.2be0b252.js.map"
+    "main.d8f1f938.js.map": "https://christyuda.github.io/portofolio/static/js/main.d8f1f938.js.map"
   },
   "entrypoints": [
     "static/css/main.33f04f24.css",
-    "static/js/main.2be0b252.js"
+    "static/js/main.d8f1f938.js"
   ]
 }
