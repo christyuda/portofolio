@@ -38,7 +38,7 @@ const About = () => {
               Seorang Pekerja Lepas Front End developer dengan 2 tahun
               pengalaman.
             </h3>
-            <p className="mb-6">blabalbalblablbalblalbl</p>
+            <p className="mb-6"></p>
             <div className="flex gap-x-6 lg:gap-x-10 mb-12">
               <div>
                 <div className="text-[40px] font-tertiary text-gradient mb-2">
